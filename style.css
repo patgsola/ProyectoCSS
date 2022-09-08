@@ -5,11 +5,5 @@ h1{
     background-color: rgb(81, 7, 22);
     color: beige;
 }
-#título-uno {
-    background-color: rgb(168, 15, 10);
-    color: black;
-}
-.título-tres{
-    background-color: rgb(74, 74, 177);
-    color: beige;
-}
+li{background-color: rgb(220, 187, 193);
+    color: rgb(11, 11, 11);}g
