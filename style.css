@@ -1,14 +1,15 @@
 body{
-    background-color: chocolate;
+    background-color: rgb(201, 167, 143);
 }
 h1{
-    background-color: crimson;
+    background-color: rgb(81, 7, 22);
     color: beige;
 }
 #título-uno {
-    background-color: aqua;
+    background-color: rgb(168, 15, 10);
     color: black;
 }
 .título-tres{
-    background-color: blue;
+    background-color: rgb(74, 74, 177);
+    color: beige;
 }
